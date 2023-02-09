@@ -175,6 +175,8 @@ celerybeat.pid
 .env
 .venv
 env/
+my-env/
+game_ecosistem
 venv/
 ENV/
 env.bak/
@@ -243,6 +245,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-.png
+*.png
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,python
